@@ -8,9 +8,9 @@ Developer/Provider: Zapling Mobile
 
 This Privacy Policy applies to the myKGMOA mobile application (“Application”) developed by Zapling Mobile (“Service Provider”). This policy outlines how we collect, use, disclose, and safeguard your information when you use the Application. By using the Application, you agree to the collection and use of information in accordance with this policy.
 
-1. Information We Collect
+## 1. Information We Collect
 
-a. Personally Identifiable Information
+### a. Personally Identifiable Information
 
 We may collect personal information that you voluntarily provide when using the Application, including but not limited to:
 	•	Full name
@@ -23,7 +23,7 @@ We may collect personal information that you voluntarily provide when using the 
 
 This information is used for authentication, member verification, and enabling communication features.
 
-b. Automatically Collected Information
+### b. Automatically Collected Information
 
 When you use the Application, we may automatically collect:
 	•	Device IP address
@@ -31,11 +31,11 @@ When you use the Application, we may automatically collect:
 	•	Access times and interaction patterns
 	•	Pages visited within the Application
 
-c. Location Data
+### c. Location Data
 
 We do not collect precise location data. However, IP-based location may be inferred for analytics and usage optimization.
 
-2. Use of Information
+## 2. Use of Information
 
 The information we collect is used to:
 	•	Authenticate users and manage sessions
@@ -45,11 +45,11 @@ The information we collect is used to:
 	•	Analyze usage trends and improve performance
 	•	Maintain security and detect suspicious activity
 
-3. Data Storage and Security
+## 3. Data Storage and Security
 
 All user data is securely stored and managed using Supabase. Supabase employs encryption and access control measures to ensure your data remains secure. We implement reasonable physical, electronic, and procedural safeguards to protect your information.
 
-4. Sharing of Information
+## 4. Sharing of Information
 
 We do not sell or rent your personal data. However, we may share information:
 	•	With service providers who help operate and maintain the Application
@@ -59,15 +59,15 @@ We do not sell or rent your personal data. However, we may share information:
 
 All shared data is subject to strict confidentiality agreements.
 
-5. Data Retention
+## 5. Data Retention
 
 We retain your personal data for as long as your account is active or as needed to provide you services. You may request deletion of your data by contacting us at pranavajay2002@gmail.com.
 
-6. Children’s Privacy
+## 6. Children’s Privacy
 
 The Application is not intended for use by individuals under the age of 13. We do not knowingly collect data from children. If you believe that a child under 13 has provided personal information, please contact us immediately.
 
-7. Your Rights
+## 7. Your Rights
 
 You have the right to:
 	•	Access the personal data we hold about you
@@ -77,11 +77,11 @@ You have the right to:
 
 To exercise your rights, contact us at pranavajay2002@gmail.com.
 
-8. Changes to This Privacy Policy
+## 8. Changes to This Privacy Policy
 
 We may update this Privacy Policy periodically. Any changes will be posted within the Application. Continued use of the Application after changes are made constitutes acceptance of the revised policy.
 
-9. Contact Us
+## 9. Contact Us
 
 If you have any questions or concerns about this Privacy Policy or the handling of your data, contact:
 
