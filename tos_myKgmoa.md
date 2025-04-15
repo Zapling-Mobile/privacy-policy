@@ -2,7 +2,11 @@
 # Terms of Service
 
 Effective Date: 2025-01-01
+
+
 App Name: myKGMOA
+
+
 Developer: Zapling Mobile (Owned by Pranav Ajay)
 
 These Terms of Service (“Terms”) govern your use of the myKGMOA mobile application (“Application” or “App”), developed by Zapling Mobile, owned and operated by Pranav Ajay (“we”, “us”, or “our”). By accessing, installing, or using the Application, you agree to be bound by these Terms. If you do not agree with these Terms, please do not use the Application.
