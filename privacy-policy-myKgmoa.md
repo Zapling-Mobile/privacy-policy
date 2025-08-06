@@ -50,7 +50,17 @@ The information we collect is used to:
 
 ## 3. Data Storage and Security
 
-All user data is securely stored and managed using Supabase. Supabase employs encryption and access control measures to ensure your data remains secure. We implement reasonable physical, electronic, and procedural safeguards to protect your information.
+We store all user data securely using Supabase, a trusted backend service provider. Supabase uses industry-standard encryption protocols for both data at rest and data in transit.
+We implement multiple layers of protection, including:
+
+Database encryption
+Authentication with access controls
+Role-based permissions to restrict sensitive data
+Secure HTTPS for all communication
+Access to your personal data is strictly limited to authorized personnel and services that require it to provide core app functionality. We continuously monitor and review our security measures to protect against unauthorized access, disclosure, or alteration.
+
+We use Supabase Realtime to facilitate real-time features such as chat and presence detection, and Supabase Auth to manage secure user authentication and session management.
+
 
 ## 4. Sharing of Information
 
