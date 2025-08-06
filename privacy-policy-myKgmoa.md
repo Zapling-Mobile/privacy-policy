@@ -6,6 +6,9 @@ App Name: myKGMOA
 
 Developer/Provider: Zapling Mobile
 
+**Disclaimer:** myKGMOA is an independent app developed for members of the Kerala Government Medical Officers Association (KGMOA) and is **not affiliated with or endorsed by the Government of Kerala or any government entity**.
+
+
 This Privacy Policy applies to the myKGMOA mobile application (“Application”) developed by Zapling Mobile (“Service Provider”). This policy outlines how we collect, use, disclose, and safeguard your information when you use the Application. By using the Application, you agree to the collection and use of information in accordance with this policy.
 
 ## 1. Information We Collect
